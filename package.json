@@ -1,0 +1,16 @@
+{
+    "name": "hello-npm",
+    "version": "1.0.0",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "iconv": "^2.3.0",
+        "request": "^2.83.0"
+    },
+    "devDependencies": {
+        "assert": "^1.4.1",
+        "babel-cli": "^6.26.0"
+    },
+    "optionalDependencies": {
+        "nodemon": "^1.14.11"
+    }
+}
